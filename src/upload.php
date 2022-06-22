@@ -25,7 +25,7 @@ if(isset($_POST['submit'])){
 }
 
 //ALGORHITM
-function separate($mainArray, $secArray, $filename) {
+function separate($mainArray, $secArray, $filename){
 
     $output = [];
     $i = 0;
